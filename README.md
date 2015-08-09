@@ -1,12 +1,16 @@
 ## Code Example
 
-./picture_organizer.py
+```{r, engine='bash', count_lines}
+$ ./picture_organizer.py
+```
 
 ## Installation
 
-git clone https://github.com/sbarratt/picture-organizer.git
-cd picture-organizer
-chmod +x picture_organizer.py
+```{r, engine='bash', count_lines}
+$ git clone https://github.com/sbarratt/picture-organizer.git
+$ cd picture-organizer
+$ chmod +x picture_organizer.py
+```
 
 Change basedir and finaldir in file picture_organizer.py so the script works as intended.
 
